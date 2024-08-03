@@ -9,7 +9,7 @@
 - PowerToys
 - Everything
   - and Everything extension for PowerToys
-- PrtSc: Flameshot
-- Record: DemoGet
+- PrtSc: [Flameshot](https://flameshot.org/)
+- Record: [DemoGet](https://www.demoget.com/)
 - File Manager: Double Commander
   - Setting Regedit: https://gist.github.com/domportera/451487759425f7964c120f9036df8bdd
