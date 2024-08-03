@@ -1,6 +1,6 @@
 # An endless list for my personal computer setting.
 
-- Chrome will auto get all the extensions. My recommand:
+- Login Chrome on a new PC will auto get all the previous used extensions. My recommand:
   - BlackList: https://dengtab.com/cn/
   - One Time Password: https://authenticator.cc/
   - Vim-like: Vimium C
