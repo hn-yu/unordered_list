@@ -1,4 +1,4 @@
-# An endless list for my personal computer setting.
+# An endless list for my personal computer setting
 
 - Login Chrome on a new PC will auto get all the previous used extensions. My recommand:
   - BlackList: https://dengtab.com/cn/
