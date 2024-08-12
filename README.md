@@ -4,8 +4,7 @@
   - BlackList: https://dengtab.com/cn/
   - One Time Password: https://authenticator.cc/
   - Vim-like: Vimium C
-- VPN: https://github.com/lantongxue/clash_for_windows_pkg/releases
-- 1password
+- VPN: https://clash-verge-rev.github.io/install.html
 - PowerToys
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
   - and [Everything extension for PowerToys](https://github.com/lin-ycv/EverythingPowerToys)
